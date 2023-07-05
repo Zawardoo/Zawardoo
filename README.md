@@ -1,7 +1,3 @@
--  Hi, I’m @Zawardoo
-- 👀 I’m interested in learning new thing every day, repairing electronics. 
-- 🌱 I’m currently learning python and programming overall 
-- 💞️ I’m looking to collaborate on everything
 
 
 <!---
